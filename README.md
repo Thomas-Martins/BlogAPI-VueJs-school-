@@ -2,6 +2,11 @@
 
 This project was developed as part of a school assignment to explore Vue.js, understand the concept of components, and practice making API calls using Axios.
 
+<p align="center">
+  <img src="./screenshot/screenshot.png" alt="miniature" />
+  <img src="./screenshot/screenshot-post.png" alt="miniature" />
+</p>
+
 ## Project Overview
 
 The objective of this project was to build a web application that leverages the Vue.js framework. The main focus areas include:
